@@ -10,6 +10,7 @@ Below is a table showing how total rides, total drivers, and total fares vary by
  ![Summary](https://user-images.githubusercontent.com/66279829/158106497-c06a2248-4fab-443b-b29d-f72d9980a6ab.png)
  
 We can also see from the image below that the total fare varies by month. In the 3 types of cities, the total fare has high peeks between February and march and this can be due to many reasons, weather, holidays, etc.
+
  ![PyBer_fare_summary](https://user-images.githubusercontent.com/66279829/158106394-450c7641-64d5-4519-a4a4-a31aa0c0d012.png)
 
 ## Summary 
